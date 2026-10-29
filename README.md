@@ -19,3 +19,7 @@ Es un solo archivo sin dependencias ni servidor. Abre `index.html` en el navegad
 ## Aviso
 
 El contenido resume prácticas comunes de cuidado posterior y no sustituye la indicación de un médico.
+
+## Otros contenidos del repositorio
+
+- [`algoritmos-noticias/`](algoritmos-noticias/README.md): estudio de ingeniería inversa de los algoritmos de noticias en redes sociales, con simulador en Python.

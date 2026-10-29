@@ -1,0 +1,45 @@
+[
+  {"titulo": "Reportaje original: auditoría a 40 plantas industriales revela fallas de seguridad",
+   "fuente": "Medio nacional", "horas": 3, "p_like": 0.04, "p_respuesta": 0.01, "p_repost": 0.015,
+   "p_click": 0.12, "p_click_perfil": 0.01, "p_autor_responde": 0.001, "p_negativo": 0.002,
+   "p_reaccion": 0.01, "autoridad_fuente": 0.9, "relevancia_tema": 0.8, "prominencia": 0.4,
+   "originalidad": 1.0, "enlace_externo": true, "en_red": true, "afinidad": 0.3,
+   "clicks_buenos": 80, "clicks_malos": 20, "votos_arriba": 420, "votos_abajo": 30},
+
+  {"titulo": "¡NO VAS A CREER lo que encontraron en esta fábrica!",
+   "fuente": "Página viral", "horas": 2, "p_like": 0.08, "p_respuesta": 0.02, "p_repost": 0.03,
+   "p_click": 0.25, "p_click_perfil": 0.002, "p_negativo": 0.02, "p_reporte": 0.001,
+   "p_reaccion": 0.04, "autoridad_fuente": 0.2, "relevancia_tema": 0.6, "prominencia": 0.1,
+   "originalidad": 0.1, "clickbait": 0.9, "enlace_externo": true, "en_red": false, "afinidad": 0.1,
+   "clicks_buenos": 20, "clicks_malos": 80, "votos_arriba": 300, "votos_abajo": 120},
+
+  {"titulo": "Hilo: ¿debe México exigir certificación a soldadores? Opinen, contesto a todos",
+   "fuente": "Ingeniero con comunidad", "horas": 5, "p_like": 0.06, "p_respuesta": 0.06, "p_repost": 0.01,
+   "p_click": 0.10, "p_click_perfil": 0.03, "p_autor_responde": 0.03, "p_negativo": 0.003,
+   "p_reaccion": 0.02, "autoridad_fuente": 0.6, "relevancia_tema": 0.7, "prominencia": 0.0,
+   "originalidad": 0.8, "en_red": true, "afinidad": 0.7,
+   "clicks_buenos": 50, "clicks_malos": 10, "votos_arriba": 150, "votos_abajo": 20},
+
+  {"titulo": "Video de 45 s: así se repara una tubería de alta presión",
+   "fuente": "Canal técnico", "horas": 8, "p_like": 0.10, "p_respuesta": 0.01, "p_repost": 0.02,
+   "p_click": 0.20, "p_negativo": 0.002, "p_reaccion": 0.02,
+   "es_video": true, "duracion_seg": 45, "vista_esperada_seg": 52, "satisfaccion": 0.85,
+   "autoridad_fuente": 0.6, "relevancia_tema": 0.7, "prominencia": 0.0, "originalidad": 0.9,
+   "en_red": false, "afinidad": 0.2, "clicks_buenos": 60, "clicks_malos": 10,
+   "votos_arriba": 90, "votos_abajo": 5},
+
+  {"titulo": "Explosión en refinería causada por antenas 5G (desmentido)",
+   "fuente": "Cuenta anónima", "horas": 1, "p_like": 0.09, "p_respuesta": 0.04, "p_repost": 0.05,
+   "p_click": 0.30, "p_negativo": 0.03, "p_reporte": 0.004, "p_reaccion": 0.06,
+   "es_video": true, "duracion_seg": 60, "vista_esperada_seg": 35, "satisfaccion": 0.2,
+   "autoridad_fuente": 0.05, "relevancia_tema": 0.6, "prominencia": 0.3, "originalidad": 0.2,
+   "clickbait": 0.7, "desmentida": true, "en_red": false, "autor_verificado": true, "afinidad": 0.0,
+   "clicks_buenos": 10, "clicks_malos": 90, "votos_arriba": 80, "votos_abajo": 200},
+
+  {"titulo": "Resumen de agencia: sube 3 % la producción industrial (nota de ayer)",
+   "fuente": "Agencia", "horas": 30, "p_like": 0.02, "p_respuesta": 0.002, "p_repost": 0.005,
+   "p_click": 0.06, "p_negativo": 0.001, "p_reaccion": 0.003,
+   "autoridad_fuente": 0.85, "relevancia_tema": 0.6, "prominencia": 0.9, "originalidad": 0.3,
+   "enlace_externo": true, "en_red": true, "afinidad": 0.2, "ubicacion_coincide": true,
+   "clicks_buenos": 40, "clicks_malos": 15, "votos_arriba": 60, "votos_abajo": 4}
+]
