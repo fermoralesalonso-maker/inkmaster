@@ -1,6 +1,6 @@
 {
   "created_by": "trader-budget",
-  "created_at": "2026-11-04T13:13:36",
+  "created_at": "2026-11-04T13:16:40",
   "status": "proposed",
   "paper": true,
   "note": "Proposals only. Nothing is placed until trader-risk passes each order and you say yes to it in the chat.",
@@ -31,7 +31,7 @@
       "why": "25.00% of the stock sleeve"
     },
     {
-      "symbol": "AXP",
+      "symbol": "NFLX",
       "side": "buy",
       "notional": "1125",
       "type": "market",
