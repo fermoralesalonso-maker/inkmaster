@@ -1,0 +1,60 @@
+{
+  "rules": [
+    {
+      "id": "msft-below-515",
+      "symbol": "MSFT",
+      "type": "below",
+      "price": 515.0,
+      "note": "Entrada 2/3 MSFT $375 (cerca de SMA50)"
+    },
+    {
+      "id": "msft-below-495",
+      "symbol": "MSFT",
+      "type": "below",
+      "price": 495.0,
+      "note": "Entrada 3/3 MSFT $375 (soporte)"
+    },
+    {
+      "id": "ma-below-615",
+      "symbol": "MA",
+      "type": "below",
+      "price": 615.0,
+      "note": "Entrada 2/3 MA $375 (SMA20)"
+    },
+    {
+      "id": "ma-below-590",
+      "symbol": "MA",
+      "type": "below",
+      "price": 590.0,
+      "note": "Entrada 3/3 MA $375 (SMA50)"
+    },
+    {
+      "id": "ko-below-92",
+      "symbol": "KO",
+      "type": "below",
+      "price": 92.0,
+      "note": "Entrada 2/3 KO $375 (SMA20)"
+    },
+    {
+      "id": "ko-below-89.60",
+      "symbol": "KO",
+      "type": "below",
+      "price": 89.6,
+      "note": "Entrada 3/3 KO $375 (SMA50)"
+    },
+    {
+      "id": "nflx-above-67",
+      "symbol": "NFLX",
+      "type": "above",
+      "price": 67.0,
+      "note": "Entrada 2/3 NFLX $375 (recupera SMA20, confirma rebote)"
+    },
+    {
+      "id": "nflx-below-61",
+      "symbol": "NFLX",
+      "type": "below",
+      "price": 61.0,
+      "note": "NFLX rompe minimo de 52 semanas: pausar compras y revisar"
+    }
+  ]
+}
