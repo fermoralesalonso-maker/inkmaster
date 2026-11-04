@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-04",
+  "paper": true,
+  "results": [
+    {
+      "index": 1,
+      "symbol": "MSFT",
+      "side": "buy",
+      "amount": "$1,125",
+      "value_usd": 1125.0,
+      "fingerprint": "156bab975cc5051d",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 2,
+      "symbol": "MA",
+      "side": "buy",
+      "amount": "$1,125",
+      "value_usd": 1125.0,
+      "fingerprint": "f0d2fd1c8e37e0a6",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 3,
+      "symbol": "KO",
+      "side": "buy",
+      "amount": "$1,125",
+      "value_usd": 1125.0,
+      "fingerprint": "2d87a53ab1ec5e95",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    },
+    {
+      "index": 4,
+      "symbol": "NFLX",
+      "side": "buy",
+      "amount": "$1,125",
+      "value_usd": 1125.0,
+      "fingerprint": "9e14ef115a5c6aaf",
+      "verdict": "PASS",
+      "reasons": [],
+      "warnings": []
+    }
+  ],
+  "pass": 4,
+  "block": 0,
+  "warnings": [],
+  "cash_after": 500.0,
+  "prices_as_of": "2026-11-04T12:59:46Z",
+  "checked_at": "2026-11-04T13:17:41",
+  "orders_file": "trader/orders.json"
+}
