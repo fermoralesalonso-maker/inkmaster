@@ -1,9 +1,9 @@
 {
-  "as_of": "2026-11-09T17:42:04Z",
+  "as_of": "2026-11-10T17:44:53Z",
   "source": "yahoo",
   "note": "Delayed quotes for alerts and sizing checks. Your broker's price is the one that fills.",
   "prices": {
-    "MSFT": 543.61,
+    "MSFT": 528.665,
     "NVDA": 206.69,
     "AMZN": 250.69,
     "META": 621.03,
@@ -13,7 +13,7 @@
     "ORCL": 126.19,
     "ADBE": 246.14,
     "CRM": 222.2,
-    "NFLX": 63.97,
+    "NFLX": 62.725,
     "AMD": 483.9,
     "QCOM": 164.43,
     "TXN": 312.49,
@@ -25,13 +25,13 @@
     "MRK": 144.67,
     "UNH": 404.44,
     "V": 420.42,
-    "MA": 657.995,
+    "MA": 661.185,
     "COST": 1019.26,
     "WMT": 124.86,
     "HD": 333.66,
     "MCD": 263.04,
     "PG": 162.06,
-    "KO": 95.775,
+    "KO": 96.85,
     "PEP": 137.27,
     "NKE": 38.48,
     "AXP": 325.5,
@@ -40,8 +40,8 @@
   },
   "detail": {
     "MSFT": {
-      "prev_close": 530.61,
-      "time": "2026-11-09T17:42:03Z",
+      "prev_close": 545.18,
+      "time": "2026-11-10T17:44:42Z",
       "source": "yahoo"
     },
     "NVDA": {
@@ -90,8 +90,8 @@
       "source": "yahoo"
     },
     "NFLX": {
-      "prev_close": 63.41,
-      "time": "2026-11-09T17:42:06Z",
+      "prev_close": 63.95,
+      "time": "2026-11-10T17:44:50Z",
       "source": "yahoo"
     },
     "AMD": {
@@ -150,8 +150,8 @@
       "source": "yahoo"
     },
     "MA": {
-      "prev_close": 652.7,
-      "time": "2026-11-09T17:41:56Z",
+      "prev_close": 655.81,
+      "time": "2026-11-10T17:44:45Z",
       "source": "yahoo"
     },
     "COST": {
@@ -180,8 +180,8 @@
       "source": "yahoo"
     },
     "KO": {
-      "prev_close": 95.67,
-      "time": "2026-11-09T17:41:56Z",
+      "prev_close": 96.03,
+      "time": "2026-11-10T17:44:49Z",
       "source": "yahoo"
     },
     "PEP": {
