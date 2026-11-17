@@ -9,10 +9,10 @@
     {
       "symbol": "MSFT",
       "side": "buy",
-      "notional": "375",
+      "notional": "750",
       "type": "market",
       "time_in_force": "day",
-      "why": "Entrada 1/3 (de $1,125 objetivo, 25% del bloque de acciones)"
+      "why": "Tramos 1+2 de MSFT ($375 + $375). Tramo 2 activado: MSFT $501.04 <= $515 (2026-11-17). Tramo 1 a\u00fan no se hab\u00eda comprado."
     },
     {
       "symbol": "MA",
@@ -36,7 +36,7 @@
       "notional": "375",
       "type": "market",
       "time_in_force": "day",
-      "why": "Entrada 1/3 (de $1,125 objetivo, 25% del bloque de acciones)"
+      "why": "Entrada 1/3 (de $1,125 objetivo, 25% del bloque de acciones) | PAUSA: NFLX $59.72 rompi\u00f3 $61 (m\u00ednimo de 52 semanas) el 2026-11-17. No comprar hasta revisar."
     }
   ]
 }

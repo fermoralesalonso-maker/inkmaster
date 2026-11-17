@@ -1,14 +1,14 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-17",
   "paper": true,
   "results": [
     {
       "index": 1,
       "symbol": "MSFT",
       "side": "buy",
-      "amount": "$375",
-      "value_usd": 375.0,
-      "fingerprint": "f12db6432e180826",
+      "amount": "$750",
+      "value_usd": 750.0,
+      "fingerprint": "77f0b9fa57d216bb",
       "verdict": "PASS",
       "reasons": [],
       "warnings": []
@@ -50,8 +50,8 @@
   "pass": 4,
   "block": 0,
   "warnings": [],
-  "cash_after": 3500.0,
-  "prices_as_of": "2026-11-04T12:59:46Z",
-  "checked_at": "2026-11-04T13:22:44",
+  "cash_after": 3125.0,
+  "prices_as_of": "2026-11-17T17:42:54Z",
+  "checked_at": "2026-11-17T17:43:07",
   "orders_file": "trader/orders.json"
 }
