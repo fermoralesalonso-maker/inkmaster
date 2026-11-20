@@ -9,10 +9,10 @@
     {
       "symbol": "MSFT",
       "side": "buy",
-      "notional": "750",
+      "notional": "1125",
       "type": "market",
       "time_in_force": "day",
-      "why": "Tramos 1+2 de MSFT ($375 + $375). Tramo 2 activado: MSFT $501.04 <= $515 (2026-11-17). Tramo 1 a\u00fan no se hab\u00eda comprado."
+      "why": "Tramos 1+2+3 de MSFT ($375 x3), ninguno comprado a\u00fan. Tramo 2: $501.04 <= $515 (2026-11-17). Tramo 3: $488.65 <= $495 (2026-11-20)."
     },
     {
       "symbol": "MA",
